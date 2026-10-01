@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+}
+p {
+    text-align: justify; 
+    color: darkslateblue;
+}
+
+h1 {    
+    color: darkred;
+}
+
+img {
+    height: 150px;
+}
+
+.kozepre {
+    text-align: center;
+}
+
+.nagy-meretu-betu {
+    font-size: 64px;
+}
