@@ -21,3 +21,26 @@ img {
 .nagy-meretu-betu {
     font-size: 64px;
 }
+
+.kiemelt {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.kiemelt2 {
+    font-weight: bold;
+    font-style: italic;
+    color: #f00;
+}
+
+.piros {
+    color: #f00;
+}
+
+#kep-kenyer {
+    background-color: blue;
+}
+
+#kep-kolbasz {
+    background-color: yellow;
+}
