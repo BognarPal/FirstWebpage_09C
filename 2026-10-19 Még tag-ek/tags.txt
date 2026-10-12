@@ -1,0 +1,8 @@
+b, strong,
+i, em,
+u
+br
+hr
+video
+audio
+sup, sub
